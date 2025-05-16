@@ -7,4 +7,4 @@ the function is called to print the desired output
 
 Task 2:
 A variable is created to take user input in it,
-using math module all the desired output is printed
+using math module all the desired outputs are printed
